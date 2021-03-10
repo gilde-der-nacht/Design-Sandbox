@@ -1,0 +1,41 @@
+:root {
+  --col-meeresblau-light: #8DC1E2;
+  --col-meeresblau: #1982C4;
+  --col-meeresblau-dark: #126193;
+
+  --col-blaugruen-light: #AAD2B7;
+  --col-blaugruen: #54A56E;
+  --col-blaugruen-dark: #3F7B52;
+
+  --col-wiesengruen-light: #C5E493;
+  --col-wiesengruen: #8AC926;
+  --col-wiesengruen-dark: #67961C;
+
+  --col-gelbgruen-light: #E0E498;
+  --col-gelbgruen: #C0C92F;
+  --col-gelbgruen-dark: #909623;
+
+  --col-sonnenscheingelb-light: #FFE59D;
+  --col-sonnenscheingelb: #FFCA3A;
+  --col-sonnenscheingelb-dark: #BF972B;
+
+  --col-orange-light: #FFCAA5;
+  --col-orange: #FF954A;
+  --col-orange-dark: #BF6F37;
+
+  --col-brutzelrot-light: #FFADAF;
+  --col-brutzelrot: #FF595E;
+  --col-brutzelrot-dark: #BF4246;
+
+  --col-bordeauxrot-light: #E0A8BD;
+  --col-bordeauxrot: #C05079;
+  --col-bordeauxrot-dark: #903C5A;
+
+  --col-koenigsviolett-light: #B5A6C9;
+  --col-koenigsviolett: #6A4C93;
+  --col-koenigsviolett-dark: #4F396E;
+
+  --col-tuerkis-light: #9BC8CB;
+  --col-tuerkis: #369196;
+  --col-tuerkis-dark: #286C70;
+}
