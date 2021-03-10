@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640.43 1108.94">
+  <g color="#232323">
+    <polygon points="290.32 554.48 290.32 219.49 0.21 52 0 52.12 0 721.85 0.21 721.97 290.32 554.48" fill="currentcolor"
+      stroke="currentcolor" stroke-width="25" />
+    <polygon points="320.32 606.46 30.21 773.96 30.21 1108.94 610.43 1108.94 610.43 773.96 320.32 606.46"
+      fill="currentcolor" stroke="currentcolor" stroke-width="25" />
+    <polygon points="350.32 219.49 350.32 554.48 640.43 721.97 640.43 721.97 640.43 52 350.32 219.49"
+      fill="currentcolor" stroke="currentcolor" stroke-width="25" />
+    <polygon points="320.32 167.49 610.43 0 30.21 0 320.32 167.49" fill="currentcolor" stroke="currentcolor"
+      stroke-width="25" />
+  </g>
+</svg>
