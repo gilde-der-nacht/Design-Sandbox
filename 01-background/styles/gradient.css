@@ -1,0 +1,25 @@
+.bg-gradient {
+  background: linear-gradient(225deg, var(--col-meeresblau-dark), var(--col-wiesengruen-dark), var(--col-sonnenscheingelb-dark), var(--col-brutzelrot-dark), var(--col-koenigsviolett-dark));
+  background-size: 1000% 1000%;
+
+  -webkit-animation: BackgroundGradientAnimation 100s ease infinite;
+  -moz-animation: BackgroundGradientAnimation 100s ease infinite;
+  animation: BackgroundGradientAnimation 100s ease infinite;
+  min-height: 100vh;
+}
+
+@-webkit-keyframes BackgroundGradientAnimation {
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+@-moz-keyframes BackgroundGradientAnimation {
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+@keyframes BackgroundGradientAnimation {
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
